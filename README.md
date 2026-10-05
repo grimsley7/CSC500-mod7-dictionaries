@@ -22,5 +22,5 @@ This project is a Python course information system that uses multiple dictionari
    - Quit
 
 ## Author
-[Your Name]
+Shemecca Grimsley
   
